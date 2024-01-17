@@ -1,0 +1,6 @@
+# phpstorm project files
+.idea
+# folder vendor
+vendor
+# folder uploads for image posts
+public/assets/uploads
